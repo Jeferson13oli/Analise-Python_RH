@@ -12,3 +12,5 @@ O objetivo é contratar os profissionais com perfil adequado, a fim dereduzir o 
 Informações relacionadas a dados demográficos, educaçãoeexperiência estão disponíveis no conjunto de dados fornecido.
 
 Nosso objetivo será realizar um extenso trabalhode análise nos dados, compreender como estão organizados, realizar limpezae transformação dos dados conforme necessário, detectar eventuais padrões e diagnósticose ao final emitir um parecer com um resumo sobre os dados.
+
+https://github.com/Jeferson13oli/Analise-Python_RH/blob/main/Projeto_Analise_Python_RH.ipynb
